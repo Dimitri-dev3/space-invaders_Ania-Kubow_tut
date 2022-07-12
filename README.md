@@ -1,4 +1,4 @@
-A forked project from Ania Kubow 7 project video. This is specfically the space invaders base game that I modified to make a custom look for my space invaders game.
+
 
 
 
